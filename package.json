@@ -1,0 +1,15 @@
+{
+  "name": "victoria-dataset-project",
+  "version": "1.0.0",
+  "description": "Victoria Dataset Converter",
+  "main": "victoriaDatasetConversion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Tucker",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0"
+  }
+}
